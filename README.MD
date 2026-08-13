@@ -14,12 +14,12 @@
 
 ### 🚀 About Me
 
-- 🔭 Software Developer at **DDSPLM Pvt Ltd**, building backend services for multi-tenant SaaS, APQP, Document Management and Asset Management platforms
-- 🌱 Actively leveling up in **Go (Golang)** — goroutines, channels, REST APIs, and building production-grade microservices with Gin
-- 🎓 Pursuing **MCA at IGNOU**, building an AI-powered Learning Management System (SkillUp LMS) as my final project
-- 💼 4+ years of experience across **PHP/Laravel** and **Go**, shipping features used in live automotive and manufacturing SaaS products
-- 📍 Based in Gurugram, open to Go Developer roles in **Lucknow, Noida, and Gurugram**
-- ⚡ Fun fact: I enjoy reading, videography, and fitness when I'm not writing backend code
+-  Software Developer at **DDSPLM Pvt Ltd**, building backend services for multi-tenant SaaS, APQP, Document Management and Asset Management platforms
+-  Actively leveling up in **Go (Golang)** — goroutines, channels, REST APIs, and building production-grade microservices with Gin
+-  Pursuing **MCA at IGNOU**, building an AI-powered Learning Management System (SkillUp LMS) as my final project
+-  4+ years of experience across **PHP/Laravel** and **Go**, shipping features used in live automotive and manufacturing SaaS products
+-  Based in Gurugram, open to Go Developer roles in **Lucknow, Noida, and Gurugram**
+-  Fun fact: I enjoy reading, videography, and fitness when I'm not writing backend code
 
 ---
 
@@ -67,15 +67,7 @@ An enterprise asset-tracking solution with role-based access control, audit trai
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisispramod&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisispramod&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisispramod&layout=compact&hide_border=true" width="50%" />
-</p>
+ 
 
 ---
 
