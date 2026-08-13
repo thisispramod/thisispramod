@@ -14,12 +14,12 @@
 
 ### 🚀 About Me
 
--  Software Developer at **DDSPLM Pvt Ltd**, building backend services for multi-tenant SaaS, APQP, Document Management and Asset Management platforms
--  Actively leveling up in **Go (Golang)** — goroutines, channels, REST APIs, and building production-grade microservices with Gin
--  Pursuing **MCA at IGNOU**, building an AI-powered Learning Management System (SkillUp LMS) as my final project
--  4+ years of experience across **PHP/Laravel** and **Go**, shipping features used in live automotive and manufacturing SaaS products
--  Based in Gurugram, open to Go Developer roles in **Lucknow, Noida, and Gurugram**
--  Fun fact: I enjoy reading, videography, and fitness when I'm not writing backend code
+- 🔭 Software Developer at **DDSPLM Pvt Ltd**, building backend services for multi-tenant SaaS, APQP, and Asset Management platforms
+- 🌱 Actively leveling up in **Go (Golang)** — goroutines, channels, REST APIs, and building production-grade microservices with Gin
+- 🎓 Pursuing **MCA at IGNOU**, building an AI-powered Learning Management System (SkillUp LMS) as my final project
+- 💼 4+ years of experience across **PHP/Laravel** and **Go**, shipping features used in live automotive and manufacturing SaaS products
+- 📍 Based in Gurugram, open to Go Developer roles in **Lucknow, Noida, and Gurugram**
+- ⚡ Fun fact: I enjoy reading, videography, and fitness when I'm not writing backend code
 
 ---
 
@@ -57,17 +57,39 @@ A microservices-based LMS built with **Go (Gin), React, MySQL, and Docker**. Fea
 `Go` `Gin` `React` `MySQL` `Docker` `REST APIs`
 
 #### SmartAPQP — APQP Management Software
-A quality-planning platform for automotive and manufacturing industries, with FMEA, Control Plans, workflow automation, and real-time compliance dashboards.
+A quality-planning platform for automotive and manufacturing industries.
 `PHP` `MySQL` `JavaScript`
 
+- Streamlines Advanced Product Quality Planning (APQP) and new product development processes
+- Workflow automation, document management, and notification systems to reduce manual effort
+- Collaboration modules for cross-functional teams to manage deliverables, quality activities, and milestones
+- Quality control features including FMEA, Control Plans, and compliance tracking
+- Real-time dashboards and reporting for project progress, resource utilization, and quality metrics
+- Integrated with existing enterprise systems into a unified NPD ecosystem
+
 #### SmartALM — Asset Lifecycle Management
-An enterprise asset-tracking solution with role-based access control, audit trails, and automated service/warranty/ticket management.
+An enterprise asset-tracking solution for manufacturing organizations.
 `PHP` `Laravel` `MySQL` `jQuery`
+
+- End-to-end asset tracking from acquisition to disposal
+- Automated asset management workflows, reducing administrative overhead
+- Service, warranty, and ticket management modules for issue tracking and resolution
+- Role-based access control and audit trails for security and regulatory compliance
+- Customizable notification and alert systems for asset monitoring and maintenance planning
+- Asset history tracking and performance analytics for data-driven decisions
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thisispramod&show_icons=true&theme=default&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisispramod&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisispramod&layout=compact&hide_border=true" width="50%" /> </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thisispramod&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisispramod&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisispramod&layout=compact&hide_border=true" width="50%" />
+</p>
 
 ---
 
