@@ -51,6 +51,34 @@ A high-performance document repository and drive application built with microser
 
 ---
 
+#### SmartAPQP — APQP Management Software
+
+A quality-planning platform for automotive and manufacturing industries.
+
+`PHP` `MySQL` `JavaScript`
+
+Streamlines Advanced Product Quality Planning (APQP) and new product development processes
+Workflow automation, document management, and notification systems to reduce manual effort
+Collaboration modules for cross-functional teams to manage deliverables, quality activities, and milestones
+Quality control features including FMEA, Control Plans, and compliance tracking
+Real-time dashboards and reporting for project progress, resource utilization, and quality metrics
+Integrated with existing enterprise systems into a unified NPD ecosystem
+
+
+#### SmartALM — Asset Lifecycle Management
+
+An enterprise asset-tracking solution for manufacturing organizations.
+
+`PHP` `Laravel` `MySQL` `jQuery`
+
+Developed a multi-tenant SaaS-based Asset Lifecycle Management platform using Laravel, PHP, MySQL, and jQuery, supporting asset acquisition, assignment, transfer, maintenance, retirement, and disposal.
+Implemented RBAC and tenant-level authorization using Laravel Middleware, Policies, Gates, and permission-based access controls to secure organization-specific data and application modules.
+Built maintenance, service, warranty, contract, and ticket management workflows, including preventive maintenance scheduling, work orders, issue resolution, and automated expiry tracking.
+Implemented Events, Listeners, Queues, Jobs, Scheduler, and Notifications to automate maintenance reminders, warranty/contract alerts, and other background business processes.
+Developed audit trails and asset history tracking using Laravel Events/Observers, maintaining complete records of asset assignments, transfers, status changes, and user activities for compliance and traceability.
+Designed RESTful APIs and scalable backend architecture using Laravel Service Layer, Eloquent ORM, Form Requests, API Resources, database transactions, indexing, eager loading, and pagination for maintainable and high-performance enterprise applications.
+---
+
 #### 🔗 [BitURL – High-Performance URL Shortener Microservice](https://github.com/thisispramod/biturl)
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/thisispramod/biturl)
 [![GitHub](https://img.shields.io/badge/GitHub-thisispramod%2Fbiturl-181717?style=flat-square&logo=github)](https://github.com/thisispramod/biturl)
