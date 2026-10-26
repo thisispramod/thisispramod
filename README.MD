@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Pramod Kumar 👋</h1>
-<h3 align="center">Backend Developer | Transitioning into Go (Golang) Development</h3>
+<h3 align="center">Backend Developer | Go (Golang) Development</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pramod-kumar-63174a219/">
