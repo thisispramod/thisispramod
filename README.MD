@@ -22,53 +22,54 @@
 - ⚡ Fun fact: I enjoy reading, videography, and fitness when I'm not writing backend code
 
 ---
-
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="[https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)" />
+  <img src="[https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)" />
 </p>
 
 **Databases & Infra**
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
- <img src="https://img.shields.io/badge/PostgreSQL-464B4E?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="[https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/PostgreSQL-464B4E?style=flat-square&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-464B4E?style=flat-square&logo=postgresql&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)" />
 </p>
 
-**Concepts I work with daily**
+**Concepts I work with daily**  
 `REST APIs` `gRPC` `JWT Authentication` `Goroutines & Channels` `CI/CD` `Role-Based Access Control`
 
 ---
 
 ### 📌 Featured Projects
 
-#### [SkillUp LMS — AI-Powered Learning Management System](https://github.com/thisispramod)
-A microservices-based LMS built with **Go (Gin), React, MySQL, and Docker**. Features an AI-powered adaptive assessment engine (Groq/Llama 3.1), JWT-based role authorization, goroutine-driven concurrency, and a mastery-based learning engine with spaced repetition.
+#### 🎓 [SkillUp LMS — AI-Powered Learning Management System](https://github.com/thisispramod)
+A microservices-based LMS built with **Go (Gin), React, MySQL, and Docker**. Features an AI-powered adaptive assessment engine (Groq/Llama 3.1), JWT-based role authorization, goroutine-driven concurrency, and a mastery-based learning engine with spaced repetition.  
 `Go` `Gin` `React` `MySQL` `Docker` `REST APIs`
 
-### 🔗 BitURL – High-Performance URL Shortener Microservice
-[![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/thisispramod/biturl)
+---
+
+#### 🔗 [BitURL – High-Performance URL Shortener Microservice](https://github.com/thisispramod/biturl)
+[![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)]([https://github.com/thisispramod/biturl](https://github.com/thisispramod/biturl))
 [![GitHub](https://img.shields.io/badge/GitHub-thisispramod%2Fbiturl-181717?style=flat-square&logo=github)](https://github.com/thisispramod/biturl)
 
-A lightweight, concurrent URL shortener service built using Go standard `net/http` package. It generates deterministic 8-character hash identifiers for URLs using MD5 hashing and manages link redirection in memory.
+A lightweight, concurrent URL shortener service built using Go's standard `net/http` package. It generates deterministic 8-character hash identifiers for URLs using MD5 hashing and manages link redirection in memory.
 
-#### Key Highlights & Architecture
-* **Standard Library HTTP Handlers:** Built without heavy external frameworks using Go's standard `net/http` package for efficient request routing.
-* **Deterministic Hash Generation:** Utilizes MD5 hashing (`crypto/md5`) sliced to 8 characters to produce unique, compact short code IDs.
-* **In-Memory Storage:** Fast key-value lookups using Go maps (`map[string]URL`) mapping unique IDs to URL structs with creation timestamps.
-* **JSON API Responses:** Implemented JSON encoding and decoding (`encoding/json`) for structured API payload handling.
+**Key Highlights & Architecture:**
+- **Standard Library HTTP Handlers:** Built without heavy external frameworks using Go's standard `net/http` package for efficient request routing.
+- **Deterministic Hash Generation:** Utilizes MD5 hashing (`crypto/md5`) sliced to 8 characters to produce unique, compact short code IDs.
+- **In-Memory Storage:** Fast key-value lookups using Go maps (`map[string]URL`) mapping unique IDs to URL structs with creation timestamps.
+- **JSON API Responses:** Implemented JSON encoding and decoding (`encoding/json`) for structured API payload handling.
 
-#### Data Model
+**Data Model:**
 ```go
 type URL struct {
     ID           string    `json:"id"`
