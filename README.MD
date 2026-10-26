@@ -56,6 +56,27 @@
 A microservices-based LMS built with **Go (Gin), React, MySQL, and Docker**. Features an AI-powered adaptive assessment engine (Groq/Llama 3.1), JWT-based role authorization, goroutine-driven concurrency, and a mastery-based learning engine with spaced repetition.
 `Go` `Gin` `React` `MySQL` `Docker` `REST APIs`
 
+### 🔗 BitURL – High-Performance URL Shortener Microservice
+[![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/thisispramod/biturl)
+[![GitHub](https://img.shields.io/badge/GitHub-thisispramod%2Fbiturl-181717?style=flat-square&logo=github)](https://github.com/thisispramod/biturl)
+
+A lightweight, concurrent URL shortener service built using Go standard `net/http` package. It generates deterministic 8-character hash identifiers for URLs using MD5 hashing and manages link redirection in memory.
+
+#### Key Highlights & Architecture
+* **Standard Library HTTP Handlers:** Built without heavy external frameworks using Go's standard `net/http` package for efficient request routing.
+* **Deterministic Hash Generation:** Utilizes MD5 hashing (`crypto/md5`) sliced to 8 characters to produce unique, compact short code IDs.
+* **In-Memory Storage:** Fast key-value lookups using Go maps (`map[string]URL`) mapping unique IDs to URL structs with creation timestamps.
+* **JSON API Responses:** Implemented JSON encoding and decoding (`encoding/json`) for structured API payload handling.
+
+#### Data Model
+```go
+type URL struct {
+    ID           string    `json:"id"`
+    OriginalURL  string    `json:"orginal_url"`
+    ShortURL     string    `json:"short_url"`
+    CreationDate time.Time `json:"creation_date"`
+}
+
 #### SmartAPQP — APQP Management Software
 A quality-planning platform for automotive and manufacturing industries.
 `PHP` `MySQL` `JavaScript`
